@@ -18,7 +18,7 @@ public class Actividad1 {
 		
         //Llame los métodos printArray, findMax y findMin e imprima los valores del arreglo y los valores máximo y mínimo.
 		System.out.println("El valor máximo de su arreglo es: " + findMax(Array)+ "\n");
-        System.out.println("El valor minimo de su arreglo es: " + findMin(Array) + "\n");
+        	System.out.println("El valor minimo de su arreglo es: " + findMin(Array) + "\n");
 		printArray(Array);
 	}
 	
